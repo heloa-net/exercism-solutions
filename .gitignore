@@ -1,6 +1,7 @@
 # Exercism
 .exercism
 .articles
+pytest.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
